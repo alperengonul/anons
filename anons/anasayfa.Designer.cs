@@ -186,6 +186,10 @@
             // 
             // btnrakam1
             // 
+            this.btnrakam1.Animated = true;
+            this.btnrakam1.BorderRadius = 5;
+            this.btnrakam1.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam1.BorderThickness = 1;
             this.btnrakam1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -201,6 +205,10 @@
             // 
             // btnrakam2
             // 
+            this.btnrakam2.Animated = true;
+            this.btnrakam2.BorderRadius = 5;
+            this.btnrakam2.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam2.BorderThickness = 1;
             this.btnrakam2.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam2.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam2.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -216,6 +224,10 @@
             // 
             // btnrakam3
             // 
+            this.btnrakam3.Animated = true;
+            this.btnrakam3.BorderRadius = 5;
+            this.btnrakam3.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam3.BorderThickness = 1;
             this.btnrakam3.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam3.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam3.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -231,6 +243,10 @@
             // 
             // btnrakam4
             // 
+            this.btnrakam4.Animated = true;
+            this.btnrakam4.BorderRadius = 5;
+            this.btnrakam4.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam4.BorderThickness = 1;
             this.btnrakam4.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam4.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam4.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -246,6 +262,10 @@
             // 
             // btnrakam5
             // 
+            this.btnrakam5.Animated = true;
+            this.btnrakam5.BorderRadius = 5;
+            this.btnrakam5.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam5.BorderThickness = 1;
             this.btnrakam5.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam5.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam5.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -261,6 +281,10 @@
             // 
             // btnrakam6
             // 
+            this.btnrakam6.Animated = true;
+            this.btnrakam6.BorderRadius = 5;
+            this.btnrakam6.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam6.BorderThickness = 1;
             this.btnrakam6.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam6.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam6.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -276,6 +300,10 @@
             // 
             // btnrakam7
             // 
+            this.btnrakam7.Animated = true;
+            this.btnrakam7.BorderRadius = 5;
+            this.btnrakam7.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam7.BorderThickness = 1;
             this.btnrakam7.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam7.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam7.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -291,6 +319,10 @@
             // 
             // btnrakam8
             // 
+            this.btnrakam8.Animated = true;
+            this.btnrakam8.BorderRadius = 5;
+            this.btnrakam8.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam8.BorderThickness = 1;
             this.btnrakam8.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam8.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam8.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -306,6 +338,10 @@
             // 
             // btnrakam9
             // 
+            this.btnrakam9.Animated = true;
+            this.btnrakam9.BorderRadius = 5;
+            this.btnrakam9.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam9.BorderThickness = 1;
             this.btnrakam9.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam9.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam9.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -322,6 +358,9 @@
             // btnrakam0
             // 
             this.btnrakam0.Animated = true;
+            this.btnrakam0.BorderRadius = 5;
+            this.btnrakam0.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam0.BorderThickness = 1;
             this.btnrakam0.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam0.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam0.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -346,7 +385,7 @@
             this.guna2ControlBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.guna2ControlBox1.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(139)))), ((int)(((byte)(152)))), ((int)(((byte)(166)))));
             this.guna2ControlBox1.IconColor = System.Drawing.Color.White;
-            this.guna2ControlBox1.Location = new System.Drawing.Point(1069, 3);
+            this.guna2ControlBox1.Location = new System.Drawing.Point(1081, 3);
             this.guna2ControlBox1.Name = "guna2ControlBox1";
             this.guna2ControlBox1.Size = new System.Drawing.Size(45, 29);
             this.guna2ControlBox1.TabIndex = 0;
@@ -436,7 +475,7 @@
             this.guna2Panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.guna2Panel1.Location = new System.Drawing.Point(0, 0);
             this.guna2Panel1.Name = "guna2Panel1";
-            this.guna2Panel1.Size = new System.Drawing.Size(1114, 92);
+            this.guna2Panel1.Size = new System.Drawing.Size(1126, 92);
             this.guna2Panel1.TabIndex = 6;
             // 
             // label3
@@ -530,6 +569,9 @@
             // 
             // btnrakam10
             // 
+            this.btnrakam10.BorderRadius = 5;
+            this.btnrakam10.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam10.BorderThickness = 1;
             this.btnrakam10.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam10.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam10.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -545,6 +587,9 @@
             // 
             // btnrakam20
             // 
+            this.btnrakam20.BorderRadius = 5;
+            this.btnrakam20.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam20.BorderThickness = 1;
             this.btnrakam20.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam20.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam20.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -560,6 +605,9 @@
             // 
             // btnrakam30
             // 
+            this.btnrakam30.BorderRadius = 5;
+            this.btnrakam30.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam30.BorderThickness = 1;
             this.btnrakam30.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam30.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam30.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -575,6 +623,9 @@
             // 
             // btnrakam40
             // 
+            this.btnrakam40.BorderRadius = 5;
+            this.btnrakam40.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam40.BorderThickness = 1;
             this.btnrakam40.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam40.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam40.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -590,6 +641,9 @@
             // 
             // btnrakam50
             // 
+            this.btnrakam50.BorderRadius = 5;
+            this.btnrakam50.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam50.BorderThickness = 1;
             this.btnrakam50.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam50.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam50.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -605,6 +659,9 @@
             // 
             // btnrakam60
             // 
+            this.btnrakam60.BorderRadius = 5;
+            this.btnrakam60.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam60.BorderThickness = 1;
             this.btnrakam60.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam60.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam60.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -620,6 +677,9 @@
             // 
             // btnrakam70
             // 
+            this.btnrakam70.BorderRadius = 5;
+            this.btnrakam70.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam70.BorderThickness = 1;
             this.btnrakam70.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam70.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam70.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -635,6 +695,9 @@
             // 
             // btnrakam80
             // 
+            this.btnrakam80.BorderRadius = 5;
+            this.btnrakam80.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam80.BorderThickness = 1;
             this.btnrakam80.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam80.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam80.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -650,6 +713,9 @@
             // 
             // btnrakam90
             // 
+            this.btnrakam90.BorderRadius = 5;
+            this.btnrakam90.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam90.BorderThickness = 1;
             this.btnrakam90.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam90.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam90.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -684,6 +750,9 @@
             // 
             // btnrakam100
             // 
+            this.btnrakam100.BorderRadius = 5;
+            this.btnrakam100.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam100.BorderThickness = 1;
             this.btnrakam100.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam100.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam100.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -699,6 +768,9 @@
             // 
             // btnrakam200
             // 
+            this.btnrakam200.BorderRadius = 5;
+            this.btnrakam200.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam200.BorderThickness = 1;
             this.btnrakam200.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam200.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam200.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -714,6 +786,9 @@
             // 
             // btnrakam300
             // 
+            this.btnrakam300.BorderRadius = 5;
+            this.btnrakam300.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam300.BorderThickness = 1;
             this.btnrakam300.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam300.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam300.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -729,6 +804,9 @@
             // 
             // btnrakam400
             // 
+            this.btnrakam400.BorderRadius = 5;
+            this.btnrakam400.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam400.BorderThickness = 1;
             this.btnrakam400.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam400.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam400.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -744,6 +822,9 @@
             // 
             // btnrakam500
             // 
+            this.btnrakam500.BorderRadius = 5;
+            this.btnrakam500.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam500.BorderThickness = 1;
             this.btnrakam500.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam500.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam500.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -759,6 +840,9 @@
             // 
             // btnrakam600
             // 
+            this.btnrakam600.BorderRadius = 5;
+            this.btnrakam600.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam600.BorderThickness = 1;
             this.btnrakam600.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam600.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam600.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -774,6 +858,9 @@
             // 
             // btnrakam700
             // 
+            this.btnrakam700.BorderRadius = 5;
+            this.btnrakam700.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam700.BorderThickness = 1;
             this.btnrakam700.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam700.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam700.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -789,6 +876,9 @@
             // 
             // btnrakam800
             // 
+            this.btnrakam800.BorderRadius = 5;
+            this.btnrakam800.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam800.BorderThickness = 1;
             this.btnrakam800.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam800.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam800.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -804,6 +894,9 @@
             // 
             // btnrakam900
             // 
+            this.btnrakam900.BorderRadius = 5;
+            this.btnrakam900.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam900.BorderThickness = 1;
             this.btnrakam900.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam900.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam900.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -819,6 +912,9 @@
             // 
             // btnrakam00
             // 
+            this.btnrakam00.BorderRadius = 5;
+            this.btnrakam00.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnrakam00.BorderThickness = 1;
             this.btnrakam00.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam00.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnrakam00.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -853,6 +949,9 @@
             // 
             // btnsehira
             // 
+            this.btnsehira.BorderRadius = 5;
+            this.btnsehira.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehira.BorderThickness = 1;
             this.btnsehira.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehira.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehira.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -868,6 +967,9 @@
             // 
             // btnsehirb
             // 
+            this.btnsehirb.BorderRadius = 5;
+            this.btnsehirb.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirb.BorderThickness = 1;
             this.btnsehirb.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirb.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirb.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -883,6 +985,9 @@
             // 
             // btnsehirc
             // 
+            this.btnsehirc.BorderRadius = 5;
+            this.btnsehirc.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirc.BorderThickness = 1;
             this.btnsehirc.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirc.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirc.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -898,6 +1003,9 @@
             // 
             // btnsehird
             // 
+            this.btnsehird.BorderRadius = 5;
+            this.btnsehird.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehird.BorderThickness = 1;
             this.btnsehird.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehird.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehird.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -913,6 +1021,9 @@
             // 
             // btnsehire
             // 
+            this.btnsehire.BorderRadius = 5;
+            this.btnsehire.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehire.BorderThickness = 1;
             this.btnsehire.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehire.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehire.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -928,6 +1039,9 @@
             // 
             // btnsehirf
             // 
+            this.btnsehirf.BorderRadius = 5;
+            this.btnsehirf.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirf.BorderThickness = 1;
             this.btnsehirf.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirf.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirf.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -943,6 +1057,9 @@
             // 
             // btnsehirg
             // 
+            this.btnsehirg.BorderRadius = 5;
+            this.btnsehirg.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirg.BorderThickness = 1;
             this.btnsehirg.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirg.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirg.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -958,6 +1075,9 @@
             // 
             // btnsehirh
             // 
+            this.btnsehirh.BorderRadius = 5;
+            this.btnsehirh.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirh.BorderThickness = 1;
             this.btnsehirh.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirh.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirh.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -973,6 +1093,9 @@
             // 
             // btnsehirı
             // 
+            this.btnsehirı.BorderRadius = 5;
+            this.btnsehirı.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirı.BorderThickness = 1;
             this.btnsehirı.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirı.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirı.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -988,6 +1111,9 @@
             // 
             // btnsehiri
             // 
+            this.btnsehiri.BorderRadius = 5;
+            this.btnsehiri.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehiri.BorderThickness = 1;
             this.btnsehiri.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiri.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiri.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1003,6 +1129,9 @@
             // 
             // btnsehirj
             // 
+            this.btnsehirj.BorderRadius = 5;
+            this.btnsehirj.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirj.BorderThickness = 1;
             this.btnsehirj.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirj.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirj.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1018,6 +1147,9 @@
             // 
             // btnsehirk
             // 
+            this.btnsehirk.BorderRadius = 5;
+            this.btnsehirk.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirk.BorderThickness = 1;
             this.btnsehirk.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirk.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirk.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1033,6 +1165,9 @@
             // 
             // btnsehirl
             // 
+            this.btnsehirl.BorderRadius = 5;
+            this.btnsehirl.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirl.BorderThickness = 1;
             this.btnsehirl.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirl.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirl.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1048,6 +1183,9 @@
             // 
             // btnsehirm
             // 
+            this.btnsehirm.BorderRadius = 5;
+            this.btnsehirm.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirm.BorderThickness = 1;
             this.btnsehirm.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirm.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirm.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1063,6 +1201,9 @@
             // 
             // btnsehirn
             // 
+            this.btnsehirn.BorderRadius = 5;
+            this.btnsehirn.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirn.BorderThickness = 1;
             this.btnsehirn.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirn.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirn.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1078,6 +1219,9 @@
             // 
             // btnsehiro
             // 
+            this.btnsehiro.BorderRadius = 5;
+            this.btnsehiro.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehiro.BorderThickness = 1;
             this.btnsehiro.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiro.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiro.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1093,6 +1237,9 @@
             // 
             // btnsehirp
             // 
+            this.btnsehirp.BorderRadius = 5;
+            this.btnsehirp.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirp.BorderThickness = 1;
             this.btnsehirp.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirp.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirp.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1108,6 +1255,9 @@
             // 
             // btnsehirr
             // 
+            this.btnsehirr.BorderRadius = 5;
+            this.btnsehirr.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirr.BorderThickness = 1;
             this.btnsehirr.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirr.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirr.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1123,6 +1273,9 @@
             // 
             // btnsehirs
             // 
+            this.btnsehirs.BorderRadius = 5;
+            this.btnsehirs.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirs.BorderThickness = 1;
             this.btnsehirs.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirs.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirs.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1138,6 +1291,9 @@
             // 
             // btnsehirt
             // 
+            this.btnsehirt.BorderRadius = 5;
+            this.btnsehirt.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirt.BorderThickness = 1;
             this.btnsehirt.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirt.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirt.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1153,6 +1309,9 @@
             // 
             // btnsehiru
             // 
+            this.btnsehiru.BorderRadius = 5;
+            this.btnsehiru.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehiru.BorderThickness = 1;
             this.btnsehiru.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiru.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiru.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1168,6 +1327,9 @@
             // 
             // btnsehirv
             // 
+            this.btnsehirv.BorderRadius = 5;
+            this.btnsehirv.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirv.BorderThickness = 1;
             this.btnsehirv.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirv.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirv.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1183,6 +1345,9 @@
             // 
             // btnsehiry
             // 
+            this.btnsehiry.BorderRadius = 5;
+            this.btnsehiry.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehiry.BorderThickness = 1;
             this.btnsehiry.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiry.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehiry.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1198,6 +1363,9 @@
             // 
             // btnsehirz
             // 
+            this.btnsehirz.BorderRadius = 5;
+            this.btnsehirz.BorderStyle = System.Drawing.Drawing2D.DashStyle.Dot;
+            this.btnsehirz.BorderThickness = 1;
             this.btnsehirz.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirz.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
             this.btnsehirz.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
@@ -1216,7 +1384,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(41)))), ((int)(((byte)(41)))), ((int)(((byte)(41)))));
-            this.ClientSize = new System.Drawing.Size(1114, 868);
+            this.ClientSize = new System.Drawing.Size(1126, 875);
             this.Controls.Add(this.guna2Panel3);
             this.Controls.Add(this.guna2Panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;

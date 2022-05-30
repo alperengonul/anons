@@ -14,7 +14,7 @@ namespace anons
     public partial class anasayfa : Form
     {
 
-        WMPLib.WindowsMediaPlayer player = new WMPLib.WindowsMediaPlayer();
+      
         public anasayfa()
         {
             InitializeComponent();
@@ -23,8 +23,15 @@ namespace anons
 
         private void btnanaonset_Click(object sender, EventArgs e)
         {
-            player.URL = @"" + Application.StartupPath + "\\Sesler\\zil_plaka.mp3";
-            player.controls.play();
+
+            int sayi = Convert.ToInt32(Console.ReadLine());
+            int birler = sayi % 10;
+            sayi = sayi / 10;
+            int onlar = sayi % 10;
+            sayi = sayi / 10;
+            int yuzler = sayi % 10;
+            sayi = sayi / 10;
+            int binler = sayi % 10;
         }
     }
 }
